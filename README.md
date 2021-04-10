@@ -7,7 +7,7 @@
 
 ## Q2
 - PDF Reader object yang dikonversi ke csv.
-- Saat ini main.py (application/executable script) belum bisa berjalan karena beberapa konfigurasi yang belum selesai.
+- Saat ini main.py (application/executable script) belum bisa berjalan karena beberapa konfigurasi yang belum selesai (Dev env yang memakai Linux -> Colab dengan testing env -> Laptop Windows seperti download package melalui apt)
 - Untuk proses pembuatan konverter, dapat dilihat di folder Non_executable (Notebook/Google Colab) 
 - Adapun sample konversi berupa my_convert.csv yang dihasilkan dari Non_executable script
 
