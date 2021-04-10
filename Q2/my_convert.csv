@@ -1,0 +1,165 @@
+,Description,Possible_root_cause,Pages
+0,INDOOR PCB ABNORMALITY,  Faulty indoor PCB,1
+1,INDOOR PCB ABNORMALITY,  Faulty connector connection at indoor,1
+2,ANTIFREEZE PROTECTION OR HIGH PRESSURE CONTROL," 
+Indoor air short circuit",2
+3,ANTIFREEZE PROTECTION OR HIGH PRESSURE CONTROL," 
+Indoor coil thermistor faulty",2
+4,ANTIFREEZE PROTECTION OR HIGH PRESSURE CONTROL," 
+Indoor PCB faulty",2
+5,ANTIFREEZE PROTECTION OR HIGH PRESSURE CONTROL,  Fan blower dirty,2
+6,INDOOR FAN MOTOR ABNORMALITY," 
+Indoor fan motor winding short, or the motor lead wire broken",3
+7,INDOOR FAN MOTOR ABNORMALITY," 
+Indoor PCB faulty",3
+8,INDOOR HEAT EXCHANGER THERMISTOR ABNORMALITY,"  Thermistor, connector faulty",4
+9,INDOOR HEAT EXCHANGER THERMISTOR ABNORMALITY," 
+Indoor PCB faulty",4
+10,INDOOR ROOM THERMISTOR ABNORMALITY,"  Thermistor, connector faulty",5
+11,INDOOR ROOM THERMISTOR ABNORMALITY," 
+Indoor PCB faulty",5
+12,OUTDOOR PCB ABNORMALITY,"  Micro Controller program run-away due to external factor such as Noise, Momentary voltage 
+drop, Momentary power failure",6
+13,OUTDOOR PCB ABNORMALITY,  Damage of EEPROM,6
+14,OUTDOOR PCB ABNORMALITY,  Faulty outdoor unit PCB,6
+15,OUTDOOR PCB ABNORMALITY,  Broken hardness between PCB,6
+16,COMPRESSOR OVERLOAD,  Refrigerant Shortage,7
+17,COMPRESSOR OVERLOAD, way valve malfunction,7
+18,COMPRESSOR OVERLOAD,  Stop valve malfunction,7
+19,COMPRESSOR OVERLOAD,  Outdoor unit PCB defective,7
+20,COMPRESSOR OVERLOAD,  Water mixed in refrigerant,7
+21,COMPRESSOR OVERLOAD,  Electronic expansion valve defective,7
+22,COMPRESSOR OVERLOAD,  Disconnection of discharge pipe thermistor,7
+23,COMPRESSOR OVERLOAD,  Faulty discharge pipe thermistor,7
+24,COMPRESSOR OVERLOAD,  Disconnection of connector S,7
+25,COMPRESSOR OVERLOAD, Electronic expansion valve or coil malfunction,7
+26,COMPRESSOR OVERLOAD, Disconnection of,7
+27,COMPRESSOR OVERLOAD, terminals of OL,7
+28,COMPRESSOR OVERLOAD,  Refrigerant Shortage,8
+29,COMPRESSOR OVERLOAD, way valve malfunction,8
+30,COMPRESSOR OVERLOAD,  Electronic expansion valve defective,8
+31,COMPRESSOR OVERLOAD,  Outdoor unit PCB defective,8
+32,COMPRESSOR OVERLOAD,  Water mixed in refrigerant,8
+33,COMPRESSOR LOCK/START-UP ABNORMALITY,  Compressor locked,9
+34,COMPRESSOR LOCK/START-UP ABNORMALITY,  Compressor harness disconnect,9
+35,OUTDOOR FAN MOTOR LOCK,  Fan motor breakdown,10
+36,OUTDOOR FAN MOTOR LOCK,  Harness or connector disconnected between fan motor and PCB or in poor contact,10
+37,OUTDOOR FAN MOTOR LOCK,  Foreign matter stuck in fan,10
+38,OUTDOOR FAN MOTOR LOCK,  Defective outdoor unit PCB,10
+39,AC INPUT OVER CURRENT,  Over current due to compressor failure,11
+40,AC INPUT OVER CURRENT,  Over current due to defective outdoor unit PCB,11
+41,AC INPUT OVER CURRENT,  Over current due to defective power transistor,11
+42,AC INPUT OVER CURRENT,  Over current due to short-circuit,11
+43,4 WAY VALVE ABNORMALITY,  Thermistor defective,12
+44,4 WAY VALVE ABNORMALITY, way valve defective,12
+45,4 WAY VALVE ABNORMALITY,  Outdoor PCB defective,12
+46,4 WAY VALVE ABNORMALITY,  Foreign substance mixed in refrigerant,12
+47,4 WAY VALVE ABNORMALITY,  Stop valve defective,12
+48,4 WAY VALVE ABNORMALITY,  Disconnect of,12
+49,4 WAY VALVE ABNORMALITY, way valve coil,12
+50,DISCHARGE PIPE OVERHEAT,  Refrigerant shortage,13
+51,DISCHARGE PIPE OVERHEAT,  Four way valve malfunctioning,13
+52,DISCHARGE PIPE OVERHEAT,  Discharge pipe thermistor defective,13
+53,DISCHARGE PIPE OVERHEAT,  Outdoor PCB defective,13
+54,DISCHARGE PIPE OVERHEAT,  Water mixed in the local piping,13
+55,DISCHARGE PIPE OVERHEAT,  EXV defective,13
+56,DISCHARGE PIPE OVERHEAT,  Stop Valve defective,13
+57,HEAT EXCHANGER OVERHEAT,  The installation space is not large enough,14
+58,HEAT EXCHANGER OVERHEAT,  Faulty outdoor fan motor,14
+59,HEAT EXCHANGER OVERHEAT,  Faulty EXV,14
+60,HEAT EXCHANGER OVERHEAT,  Faulty outdoor heat exchanger thermistor,14
+61,HEAT EXCHANGER OVERHEAT,  Faulty stop valve,14
+62,HEAT EXCHANGER OVERHEAT,  Dirty heat exchanger,14
+63,HEAT EXCHANGER OVERHEAT,  Unit overcharge,14
+64,HEAT EXCHANGER OVERHEAT,  Defective outdoor unit PCB,14
+65,COMPRESSOR SENSOR SYSTEM ABNORMAL,  Broken and disconnected harness,15
+66,COMPRESSOR SENSOR SYSTEM ABNORMAL,  Outdoor unit PCB defective,15
+67,COMPRESSOR SENSOR SYSTEM ABNORMAL,  Defective compressor,15
+68,COMPRESSOR SENSOR SYSTEM ABNORMAL,  Broken and disconnected harness,16
+69,COMPRESSOR SENSOR SYSTEM ABNORMAL,  Outdoor unit PCB defective,16
+70,POSITION SENSOR ABNORMAL (COMPRESSOR),  Compressor relay cable disconnected,17
+71,POSITION SENSOR ABNORMAL (COMPRESSOR),  Compressor itself defective,17
+72,POSITION SENSOR ABNORMAL (COMPRESSOR),  Outdoor PCB defective,17
+73,POSITION SENSOR ABNORMAL (COMPRESSOR),  Stop valve closed,17
+74,POSITION SENSOR ABNORMAL (COMPRESSOR),  Compressor relay cable disconnected,18
+75,POSITION SENSOR ABNORMAL (COMPRESSOR),  Compressor itself defective,18
+76,POSITION SENSOR ABNORMAL (COMPRESSOR),  Outdoor PCB defective,18
+77,POSITION SENSOR ABNORMAL (COMPRESSOR),  Stop valve closed,18
+78,AC CURRENT SENSOR ABNORMALITY," 
+Internal wiring broken",19
+79,AC CURRENT SENSOR ABNORMALITY,  Outdoor unit PCB defective,19
+80,"Thermistor or related abnormality 
+H9: OUTDOOR AIR THERMISTOR ABNORMALITY
+J3:  COMPRESSOR DISCHARGE PIPE THERMISTOR ABNORMALITY
+J6:  OUTDOOR HEAT EXCHANGER THERMISTOR ABNORMALITY
+P4: HEAT SINK THERMISTOR ABNORMALITY",  Disconnection of the connector for the thermistor,20
+81,"Thermistor or related abnormality 
+H9: OUTDOOR AIR THERMISTOR ABNORMALITY
+J3:  COMPRESSOR DISCHARGE PIPE THERMISTOR ABNORMALITY
+J6:  OUTDOOR HEAT EXCHANGER THERMISTOR ABNORMALITY
+P4: HEAT SINK THERMISTOR ABNORMALITY",  Thermistor corresponding to the error code is defective,20
+82,"Thermistor or related abnormality 
+H9: OUTDOOR AIR THERMISTOR ABNORMALITY
+J3:  COMPRESSOR DISCHARGE PIPE THERMISTOR ABNORMALITY
+J6:  OUTDOOR HEAT EXCHANGER THERMISTOR ABNORMALITY
+P4: HEAT SINK THERMISTOR ABNORMALITY",  Defective heat exchanger thermistor in the case of J,20
+83,"Thermistor or related abnormality 
+H9: OUTDOOR AIR THERMISTOR ABNORMALITY
+J3:  COMPRESSOR DISCHARGE PIPE THERMISTOR ABNORMALITY
+J6:  OUTDOOR HEAT EXCHANGER THERMISTOR ABNORMALITY
+P4: HEAT SINK THERMISTOR ABNORMALITY"," error (outdoor heat exchanger 
+thermistor in cooling operation, or indoor heat exchanger thermistor in heating operation)",20
+84,"Thermistor or related abnormality 
+H9: OUTDOOR AIR THERMISTOR ABNORMALITY
+J3:  COMPRESSOR DISCHARGE PIPE THERMISTOR ABNORMALITY
+J6:  OUTDOOR HEAT EXCHANGER THERMISTOR ABNORMALITY
+P4: HEAT SINK THERMISTOR ABNORMALITY",  Defective outdoor unit PCB,20
+85,ELECTRICAL BOX TEMPERATURE RISE (COMPRESSOR OFF),  Fin temperature rise due to defective outdoor unit fan,21
+86,ELECTRICAL BOX TEMPERATURE RISE (COMPRESSOR OFF),  Fin temperature rise due to short circuit,21
+87,ELECTRICAL BOX TEMPERATURE RISE (COMPRESSOR OFF),  Fin thermistor defective,21
+88,ELECTRICAL BOX TEMPERATURE RISE (COMPRESSOR OFF),  Connector in poor contact,21
+89,ELECTRICAL BOX TEMPERATURE RISE (COMPRESSOR OFF),  Outdoor unit PCB defective,21
+90,Heat sink overheat,  Fin temperature rise due to short circuit,22
+91,Heat sink overheat,  Fin temperature rise due to defective outdoor unit fan,22
+92,Heat sink overheat,  Fin thermistor defective,22
+93,Heat sink overheat,  Connector in poor contact,22
+94,Heat sink overheat,  Outdoor unit PCB defective,22
+95,IPM ABNORMALITY,  Over current due to defective power transistor,23
+96,IPM ABNORMALITY,  Over current due to wrong internal wiring,23
+97,IPM ABNORMALITY,  Over current due to abnormal supply voltage,23
+98,IPM ABNORMALITY,  Over current due to defective PCB,23
+99,IPM ABNORMALITY,  Error detection due to defective PCB,23
+100,IPM ABNORMALITY,  Over- current due to closed stop valve,23
+101,IPM ABNORMALITY,  Over current due to compressor failure,23
+102,IPM ABNORMALITY,  Over current due to poor installation condition,23
+103,IPM ABNORMALITY,  Connection between main board and IPM board is not properly connect,23
+104,INSUFFICIENT GAS,"  Disconnection of the discharge pipe thermistor, indoor or outdoor heat exchanger,room or 
+outdoor temperature thermistor",24
+105,INSUFFICIENT GAS,  Closed stop valve,24
+106,INSUFFICIENT GAS,  Refrigerant shortage (refrigerant leakage),24
+107,INSUFFICIENT GAS,  Poor compression performance of compressor,24
+108,INSUFFICIENT GAS,  Defective electronic expansion valve,24
+109,DC VOLTAGE OUT OF RANGE,  Defective DC voltage detection circuit,25
+110,DC VOLTAGE OUT OF RANGE,  Defective over-voltage detection circuit,25
+111,DC VOLTAGE OUT OF RANGE,  Defective PAM control part,25
+112,DC VOLTAGE OUT OF RANGE,"  Disconnection of compressor harness
+",25
+113,DC VOLTAGE OUT OF RANGE,  Short circuit inside the fan motor winding,25
+114,DC VOLTAGE OUT OF RANGE,  Noise,25
+115,DC VOLTAGE OUT OF RANGE,  Momentary drop of voltage,25
+116,DC VOLTAGE OUT OF RANGE,  Momentary power failure,25
+117,DC VOLTAGE OUT OF RANGE, Defective outdoor unit PCB,25
+118,COMMUNICATION ABNORMALITY,  Faulty outdoor unit PCB,26
+119,COMMUNICATION ABNORMALITY,  Faulty indoor unit PCB,26
+120,COMMUNICATION ABNORMALITY," 
+Indoor unit – outdoor unit signal transmission error due to wiring error",26
+121,COMMUNICATION ABNORMALITY," 
+Indoor unit – outdoor unit signal transmission error due to disturbed power supply waveform",26
+122,COMMUNICATION ABNORMALITY," 
+Indoor unit – Outdoor unit signal transmission error due to breaking of wire in the connection 
+wires between the indoor and outdoor units",26
+123,INSTALLATION ABNORMALITY,  Wrong models interconnected,27
+124,INSTALLATION ABNORMALITY,  Wrong indoor unit PCB mounted,27
+125,INSTALLATION ABNORMALITY," 
+Indoor unit PCB defective",27
+126,INSTALLATION ABNORMALITY,  Wrong outdoor unit PCB mounted or defective,27
